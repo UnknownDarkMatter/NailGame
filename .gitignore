@@ -3,3 +3,8 @@
 ################################################################################
 
 /GameConsole/bin/Debug
+/GameConsole/obj/Debug
+/gameConsole.Business/bin/Debug
+/gameConsole.Business/obj/Debug
+/gameConsole.Entities/bin/Debug
+/gameConsole.Entities/obj/Debug
